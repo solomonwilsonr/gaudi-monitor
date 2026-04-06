@@ -852,7 +852,7 @@ static void log_csv_row(FILE *f) {
 static int      prom_sock = -1;
 static pthread_t prom_thread;
 
-#define PROM_BUF_SIZE 16384
+#define PROM_BUF_SIZE 65536
 #define PROM_MAX_HPUS 8
 
 typedef struct {
