@@ -51,7 +51,14 @@ Accurately monitor a single machine or an entire cluster with minimal overhead. 
 Requires `gcc` and `libncurses-dev`:
 
 ```bash
+# Debian/Ubuntu
+sudo apt install build-essential libncurses-dev
+
+# RHEL/CentOS/Fedora
 sudo dnf install -y gcc ncurses-devel
+```
+
+```bash
 make
 ```
 
