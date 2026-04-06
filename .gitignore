@@ -1,0 +1,5 @@
+gaudi-monitor
+demo-load
+test_meminfo
+*.o
+*.d
