@@ -1,5 +1,7 @@
 # gaudi-monitor
 
+Inspired by [nv-monitor](https://github.com/wentbackward/nv-monitor) by Paul Gresham ([@wentbackward](https://github.com/wentbackward)).
+
 Local monitoring TUI, CSV logger, and Prometheus/OpenMetrics exporter for Intel Gaudi AI Accelerator systems — all in a single <80KB binary with zero runtime dependencies. Built for servers running Intel Gaudi HPUs (Gaudi 1, Gaudi 2, Gaudi 3).
 
 Accurately monitor a single machine or an entire cluster with minimal overhead. Reports metrics via HLML (Habana Labs Management Library), with correct handling of HBM memory. Includes `demo-load`, a zero-dependency synthetic CPU load generator for validating your monitoring pipeline end-to-end.
