@@ -6,6 +6,8 @@ Accurately monitor a single machine or an entire cluster with minimal overhead. 
 
 ![C](https://img.shields.io/badge/lang-C-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Arch](https://img.shields.io/badge/arch-aarch64%20%7C%20x86__64-orange)
 
+![gaudi-monitor screenshot](screenshot.png)
+
 ## Display
 
 ### CPU Section
